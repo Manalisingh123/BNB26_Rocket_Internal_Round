@@ -1,0 +1,6 @@
+{
+  "name": "Heirloom",
+  "description": "A trust-minimized digital inheritance vault combining private archival preservation with controlled multi-guardian recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
